@@ -4,6 +4,7 @@ Solver for Worlde
 
 ## Requirements
 
+Python version 3.10 or higher with the following packages:
 - altgraph version 0.17.2
 - auto-py-to-exe version 2.20.1
 - bottle version 0.12.21
